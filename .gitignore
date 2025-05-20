@@ -1,0 +1,54 @@
+# ملفات النظام
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ملفات التحرير
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# ملفات التبعيات
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ملفات البناء والتجميع
+dist/
+build/
+*.min.js
+*.min.css
+
+# ملفات البيئة
+.env
+.env.local
+.env.*.local
+
+# ملفات السجلات
+*.log
+logs/
+log/
+
+# ملفات مؤقتة
+tmp/
+temp/
+.cache/
+
+# ملفات النسخ الاحتياطي
+*.bak
+*.backup
+*.[Bb]ak
+
+# ملفات أخرى
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tgz 
+translations.js
+bootstrap.css
