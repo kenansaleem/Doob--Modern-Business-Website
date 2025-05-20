@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Doob is a modern, responsive business website template featuring a clean design and interactive elements. The website includes multiple sections such as services, portfolio, blog, and contact information, with support for both English and Arabic languages.
+Doob is a modern, responsive business website template featuring a clean design and interactive elements. The website includes multiple sections such as services, portfolio, blog, and contact information.
 
 ## Project Structure
 
