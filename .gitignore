@@ -21,8 +21,6 @@ yarn-error.log*
 # ملفات البناء والتجميع
 dist/
 build/
-*.min.js
-*.min.css
 
 # ملفات البيئة
 .env
